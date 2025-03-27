@@ -1,4 +1,4 @@
-📌 Project Title
+📌 Multi Agent AI Crew
 
 A chatbot integrated with Telegram that fetches customer and order details using APIs. It utilizes OpenAI for responses and Serper for search functionalities.
 
