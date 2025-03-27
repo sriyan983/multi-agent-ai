@@ -1,0 +1,4 @@
+product_tnc_url: https://gro-static-pages.web.app/terms-of-use.html
+customer_api: "http://localhost:5000/api/customer"
+order_api: "http://localhost:5000/api/order"
+agent_name: 'Narayan'

@@ -1,0 +1,9 @@
+flask
+celery
+requests
+python-dotenv
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2
+cryptography
+flasgger
